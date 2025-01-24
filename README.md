@@ -19,7 +19,7 @@ I'm a future Computer Science student with some experience in Embedded Systems a
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="quang's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=minhquang2304&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a>
   <br/>
   
-[![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) 
+[![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2304&theme=tokyonight#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only)
 [![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=default#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minhquang2304#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only)
