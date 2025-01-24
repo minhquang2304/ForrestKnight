@@ -19,7 +19,8 @@ I'm a future Computer Science student with some experience in Embedded Systems a
   <br/>
   
 [![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=dracula&card_width=66&hide_border=true#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only) 
-[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=default&card_width=66&hide_border=true#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) 
+[![quang's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=default&card_width=66&hide_border=false#gh-light-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-light-mode-only) 
+[![quang's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=minhquang2304&show_icons=true&include_all_commits=true&theme=tokyonight&card_width=66&hide_border=true#gh-dark-mode-only)](https://github.com/minhquang2304/github-readme-stats#gh-dark-mode-only)
 
 
 <div align="center">
